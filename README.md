@@ -12,4 +12,4 @@ git clone https://github.com/xiaodachen1963-ops/simple_terminal.git
 
 Run the terminal application:
 
-simple_terminal.exe
+main.exe
